@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Paxi.GraphQL.Demo.Offer.Domain\Paxi.GraphQL.Demo.Offer.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
